@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "247566078102",
+    "firebase_url": "https://x-coin-195508.firebaseio.com",
+    "project_id": "x-coin-195508",
+    "storage_bucket": "x-coin-195508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247566078102:android:c6d1da2af36a213c3e72b7",
+        "android_client_info": {
+          "package_name": "appinventor.ai_bitcoinbitcore.bitcoinatomiccore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247566078102-fs4mg7v6j9lebog4kf5rp49o61fnb6ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJY2403ZmqoMueaTnSJuHtfW_rgucw50c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105047157958163042419",
+              "client_type": 3
+            },
+            {
+              "client_id": "247566078102-44nk7iub8pfrc85tv957qqssdtkrcdfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Kryptoxchangekloud.appspot.com",
+                "app_store_id": "39402560"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3875436964586241~6720530217"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247566078102:android:0218d510c68212db3e72b7",
+        "android_client_info": {
+          "package_name": "bit.ly.genesismining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247566078102-fs4mg7v6j9lebog4kf5rp49o61fnb6ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJY2403ZmqoMueaTnSJuHtfW_rgucw50c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105047157958163042419",
+              "client_type": 3
+            },
+            {
+              "client_id": "247566078102-44nk7iub8pfrc85tv957qqssdtkrcdfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Kryptoxchangekloud.appspot.com",
+                "app_store_id": "39402560"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3875436964586241~1499765840"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247566078102:android:eafcf8405ea6672b3e72b7",
+        "android_client_info": {
+          "package_name": "ve.com.abicelis.cryptomaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247566078102-fs4mg7v6j9lebog4kf5rp49o61fnb6ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJY2403ZmqoMueaTnSJuHtfW_rgucw50c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105047157958163042419",
+              "client_type": 3
+            },
+            {
+              "client_id": "247566078102-44nk7iub8pfrc85tv957qqssdtkrcdfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Kryptoxchangekloud.appspot.com",
+                "app_store_id": "39402560"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3875436964586241~8148769404"
+    }
+  ],
+  "configuration_version": "1"
